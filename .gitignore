@@ -3,3 +3,12 @@
 ################################################################################
 
 /src/Rock.Like.Api/bin/Debug/net5.0
+/src/Rock.Like.Core/bin/Debug/net5.0
+/src/Rock.Like.Data/bin/Debug/net5.0
+/src/Rock.Like.Domain/bin/Debug/net5.0
+/src/Rock.Like.Infra.CrossCutting.IoC/bin/Debug/net5.0
+/src/Rock.Like.Infra.CrossCutting.IoC/obj
+/src/Rock.Like.Domain/obj
+/src/Rock.Like.Data/obj
+/src/Rock.Like.Core/obj
+/src/Rock.Like.Api/obj
